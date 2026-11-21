@@ -1,3 +1,4 @@
+//veryveryvery important this question can also be asked like intersection of twp arrays
 #include <stdio.h>
 
 int main() {
