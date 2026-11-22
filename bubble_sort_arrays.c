@@ -1,3 +1,6 @@
+veryveryveryvery important thing is here 
+i contols the number of swaps 
+j controls the number of comparisons
 #include <stdio.h>
 int main() {
 int i,j,n,temp;
