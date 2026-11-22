@@ -23,7 +23,7 @@ int main()
     {
         min = i;
 
-        for(j = i+1; j < n; j++)
+        for(j = i+1; j < n; j++)  j starts with i+1 bcoz u dont have to check for i as u have declared it is minimum
         {
             if(a[j] < a[min])
             {
